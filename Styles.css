@@ -14,7 +14,22 @@ hr {
 h1 {
   color: gray;
 }
+#FrontName {
+  font-size: 50px;
+}
 
 h3 {
   color: gray;
+}
+
+/* Used in IDs (#) and Class (.) to change a selected group defined in the html code
+
+#ProfilePic {
+  background-color:gray;
+}
+
+*/
+
+.link:hover {
+  color: Red;
 }
