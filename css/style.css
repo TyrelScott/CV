@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Oswald, sans-serif;
+  font-size: 18px;
+  background-color: lavender;
+}
+
+hr {
+  border: none;
+  border-top: 4px solid black;
+  border-bottom: hidden;
+  color:black;
+  background-color: lavender;
+  height: 4px;
+  width: 30%;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: Sacramento, sans-serif;
+  font-size: 50px
+}
+
+.TopContainer {
+  background-color:lavender;
+  position: relative;
+  padding-top: 100px;
+}
+
+.MiddleContainer {
+
+}
+
+.BottomContainer {
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.mountains {
+  width: 100%;
+  height: auto;
+  margin: -5px;
+  position: relative;
+}
+
+.computer-img {
+  height: 240px;
+  width: 240px;
+}
+
+.phone-img {
+  text-align: center;
+  height: 250px;
+  width:150px;
+  position: relative;
+
+}
+
+.footer-link:hover {
+color: red;
+}
+
+.instagramlogo {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  right: 5px;
+  top: 5px;
+}
+
+.twitterlogo {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  right: 5px;
+  top: 8px;
